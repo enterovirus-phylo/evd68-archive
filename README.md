@@ -4,14 +4,14 @@ This is a list of older, dated runs of EV-D68 using the [Nextstrain build pipeli
 
 ## Dated runs
 
-[Full genome - 18 Feb 2022](https://nextstrain.org/community/enterovirus-phylo/evd68-archive/genome/2022-02-18)
-[VP1 - 16 Mar 2022](https://nextstrain.org/community/enterovirus-phylo/evd68-archive/vp1/2022-03-16)
+- [Full genome - 18 Feb 2022](https://nextstrain.org/community/enterovirus-phylo/evd68-archive/genome/2022-02-18)
+- [VP1 - 16 Mar 2022](https://nextstrain.org/community/enterovirus-phylo/evd68-archive/vp1/2022-03-16)
 
-[Full genome - 23 Jan 2020](https://nextstrain.org/community/enterovirus-phylo/evd68-archive/genome/2020-01-23)
-[VP1 - 23 Jan 2020](https://nextstrain.org/community/enterovirus-phylo/evd68-archive/vp1/2020-01-23)
+- [Full genome - 23 Jan 2020](https://nextstrain.org/community/enterovirus-phylo/evd68-archive/genome/2020-01-23)
+- [VP1 - 23 Jan 2020](https://nextstrain.org/community/enterovirus-phylo/evd68-archive/vp1/2020-01-23)
 
-[Full genome - 12 Dec 2019](https://nextstrain.org/community/enterovirus-phylo/evd68-archive/genome/2019-12-12) - Restricted to sequences through 2018 (basis for the 2022 manuscript - see below)
-[VP1 - 17 Dec 2019](https://nextstrain.org/community/enterovirus-phylo/evd68-archive/vp1/2019-12-17) - Restricted to sequences through 2018 (basis for the 2022 manuscript - see below)
+- [Full genome - 12 Dec 2019](https://nextstrain.org/community/enterovirus-phylo/evd68-archive/genome/2019-12-12) - Restricted to sequences through 2018 (basis for the 2022 manuscript - see below)
+- [VP1 - 17 Dec 2019](https://nextstrain.org/community/enterovirus-phylo/evd68-archive/vp1/2019-12-17) - Restricted to sequences through 2018 (basis for the 2022 manuscript - see below)
 
 ## Manuscript Figures
 
