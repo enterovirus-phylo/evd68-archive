@@ -4,6 +4,11 @@ This is a list of older, dated runs of EV-D68 using the [Nextstrain build pipeli
 
 ## Dated runs
 
+[Full genome - 23 Jul 2024](https://nextstrain.org/community/enterovirus-phylo/evd68-archive/genome/2024-07-23)
+</br>
+[VP1 - 29 May 2024](https://nextstrain.org/community/enterovirus-phylo/evd68-archive/vp1/2024-05-29)
+_Note that both of these runs are from data downloads from end-April 2024_
+
 [Full genome - 6 Sept 2022](https://nextstrain.org/community/enterovirus-phylo/evd68-archive/genome/2022-09-06)
 </br>
 [VP1 - 6 Sept 2022](https://nextstrain.org/community/enterovirus-phylo/evd68-archive/vp1/2022-09-06)
